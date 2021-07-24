@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Mike</h1>
+<h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,  I'm Mike</h1>
 <h3 align="center">A curious & driven Full Stack Developer from the US.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=falatm&label=Profile%20views&color=0e75b6&style=flat" alt="falatm" /> </p>
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, GraphQL, And Python.**
 
-- 👯 I’m looking to collaborate on **on any project. Always open to learn new things!**
+- 🏄 I’m looking to collaborate on **on any project. Always open to learn new things!**
 
 - 🤝 I’m looking for help with **Understanding UX/UI to aid in building projects.**
 
