@@ -27,6 +27,6 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/?username=falatm&show_icons=true&locale=en&layout=compact&theme=algolia" alt="falatm" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-lang?username=falatm&show_icons=true&locale=en&layout=compact&theme=algolia" alt="falatm" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=falatm&show_icons=true&locale=en&layout=compact&theme=algolia" alt="falatm" /></p>
 
 
