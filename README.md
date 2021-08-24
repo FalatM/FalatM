@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=falatm&label=Profile%20views&color=0e75b6&style=flat" alt="falatm" /> </p>
 
-- 🔭 I’m currently working on **React, GraphQL, And a portfolio website**
+- 🔭 I’m currently working on **React, GraphQL, Docker, And others.**
 
 - 🌱 I’m currently learning **React, GraphQL, And Python.**
 
