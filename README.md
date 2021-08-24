@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **React, GraphQL, Docker, And others.**
 
-- 🌱 I’m currently learning **React, GraphQL, And Python.**
+- 🌱 I’m currently learning **React, GraphQL, And how to implement security measures for my projects and applications.**
 
-- 🏄 I’m looking to collaborate on **on any project. Always open to learn new things!**
+- 🏄 I’m looking to collaborate on **on any projects. Always open to learn new things!**
 
-- 🤝 I’m looking for help with **Understanding UX/UI to aid in building projects.**
+- 🤝 I’m looking for help with **Understanding UX/UI to aid in building projects and Senior Developer topics.**
 
 - 💬 Ask me about **Web Development, Python, Electronics, Music, and Automotive.**
 
